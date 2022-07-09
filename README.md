@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm tonngw👋
+
+![](https://img.shields.io/badge/author-tonngw-blue) ![](https://visitor-badge.glitch.me/badge?page_id=tonngw.readme)
 
 <!--
 **tonngw/tonngw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![info](https://github-readme-stats.vercel.app/api?username=tonngw&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
+
