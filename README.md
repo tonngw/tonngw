@@ -1,6 +1,9 @@
 ### Hi, I'm tonngw👋
 
+<!--
 ![](https://img.shields.io/badge/author-tonngw-blue) ![](https://visitor-badge.glitch.me/badge?page_id=tonngw.readme)
+-->
+![](https://img.shields.io/badge/Author-tonngw-blue) ![](https://komarev.com/ghpvc/?username=tonngw)
 
 <!--
 **tonngw/tonngw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
