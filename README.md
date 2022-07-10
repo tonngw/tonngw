@@ -7,9 +7,18 @@
 
 <b>Hi, I'm tonngw👋</b>
 
-<img src = 'https://s3.bmp.ovh/imgs/2022/07/10/3de3a996546acdc7.gif' width="37%" />
+<img src = 'https://s3.bmp.ovh/imgs/2022/07/10/3de3a996546acdc7.gif' width="45%" />
 
-![](https://img.shields.io/badge/Author-tonngw-blue) ![](https://komarev.com/ghpvc/?username=tonngw)
+<a href="https://github.com/tonngw">
+  <img src="https://img.shields.io/badge/Author-tonngw-blue" />
+</a>
+
+<a href="https://github.com/tonngw">
+  <img src="https://komarev.com/ghpvc/?username=tonngw" />
+</a>
+
+<!-- markdown style -->
+<!--![](https://img.shields.io/badge/Author-tonngw-blue) ![](https://komarev.com/ghpvc/?username=tonngw)-->
 <!--
 **tonngw/tonngw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
