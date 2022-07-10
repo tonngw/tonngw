@@ -7,13 +7,13 @@
 
 <b>Hi, I'm tonngw👋</b>
 
-<a href="https://tonngw.com">
+<a href="https://github.com/tonngw">
   <img src = 'https://s3.bmp.ovh/imgs/2022/07/10/3de3a996546acdc7.gif' width="38%" />
 </a>
 
 <br>
 
-<a href="https://github.com/tonngw">
+<a href="https://tonngw.com">
   <img src="https://img.shields.io/badge/Author-tonngw-blue" />
 </a>
 
