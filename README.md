@@ -1,18 +1,15 @@
-### Hi, I'm tonngw👋
+<a href="https://github.com/tonngw#gh-light-mode-only">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=tonngw&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true#gh-light-mode-only" />
+</a>
+<a href="https://github.com/tonngw#gh-dark-mode-only">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=tonngw&show_icons=true&hide_title=true&theme=merko#gh-dark-mode-only" />
+</a>
 
-<!--
-![](https://img.shields.io/badge/author-tonngw-blue) ![](https://visitor-badge.glitch.me/badge?page_id=tonngw.readme)
--->
+<b>Hi, I'm tonngw👋</b>
 
-
-<img src = 'https://s3.bmp.ovh/imgs/2022/07/10/3de3a996546acdc7.gif' width="40%" />
+<img src = 'https://s3.bmp.ovh/imgs/2022/07/10/3de3a996546acdc7.gif' width="37%" />
 
 ![](https://img.shields.io/badge/Author-tonngw-blue) ![](https://komarev.com/ghpvc/?username=tonngw)
-
-![info](https://github-readme-stats.vercel.app/api?username=tonngw&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
-
-
-
 <!--
 **tonngw/tonngw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,7 +24,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-
