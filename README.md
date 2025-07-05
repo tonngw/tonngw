@@ -8,7 +8,7 @@
 <b>Hi, I'm tonngw👋</b>
 
 <a href="https://github.com/tonngw">
-  <img src = 'https://cdn.acwing.com/media/article/image/2022/07/12/52520_f251725801-typing-github.gif' width="310"/>
+  <img src = 'https://cdn.acwing.com/media/article/image/2025/07/05/52520_7f63463a59-github_profile.png' width="310"/>
 </a>
 
 <br>
